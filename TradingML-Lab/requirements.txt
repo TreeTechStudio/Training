@@ -1,0 +1,15 @@
+MetaTrader5==5.0.6231
+pandas>=3.0
+numpy>=2.0
+scikit-learn>=1.9
+matplotlib>=3.10
+joblib>=1.5
+pytest>=9.0
+onnx>=1.23
+onnxruntime>=1.31
+skl2onnx>=1.20
+onnxscript>=0.7
+feedparser>=6.0
+requests>=2.34
+# PyTorch con GPU (RTX 5050, CUDA 12.8):
+# pip install torch --index-url https://download.pytorch.org/whl/cu128
